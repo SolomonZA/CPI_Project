@@ -5,3 +5,7 @@
 #### Gov.uk resource on scraped data inflation projects
 
 * https://www.ons.gov.uk/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/august2017update
+
+#### Billion Prices Project
+
+* http://www.thebillionpricesproject.com/datasets/
